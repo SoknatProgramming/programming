@@ -1,0 +1,6 @@
+/Users/developer/Projects/programming/programming/bin/Debug/programming.exe
+/Users/developer/Projects/programming/programming/bin/Debug/programming.pdb
+/Users/developer/Projects/programming/programming/obj/Debug/programming.csproj.AssemblyReference.cache
+/Users/developer/Projects/programming/programming/obj/Debug/programming.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/programming/programming/obj/Debug/programming.exe
+/Users/developer/Projects/programming/programming/obj/Debug/programming.pdb
